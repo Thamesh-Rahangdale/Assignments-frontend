@@ -1,0 +1,33 @@
+.parent{
+	height: 300px;
+	width: 100%;
+	background-color: yellow;
+	display: flex;
+	margin-bottom: 50px;
+}
+
+.child{
+	height: 250px;
+	width: 23.33%;
+	background-color: greenyellow;
+	margin-right: 10%;
+}
+
+img{
+	height: 100%;          /*height and width will be 100% of parent tag i.e. div tag  */
+	width: 100%;
+}
+
+.parent2{
+	height: 250px;
+	width: 100%;
+	background-color: red;
+	display: flex;
+}
+
+.child2{
+	height: 200px;
+	width: 20%;
+	background-color: lightcyan;
+	margin-right: 5%;
+}
